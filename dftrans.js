@@ -3,7 +3,7 @@
 // @namespace  http://use.i.E.your.homepage/
 // @version    0.1
 // @description  enter something useful
-// @match      http://www.sistemas.dftrans.df.gov.br/*
+// @match      http://www.sistemas.dftrans.df.gov.br/horarios/src/sistema/index
 // @copyright  2012+, You
 // ==/UserScript==
 
